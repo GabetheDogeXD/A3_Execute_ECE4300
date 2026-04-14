@@ -1,7 +1,7 @@
 # A3_Execute_ECE4300
 
-Adder       : 32 bit adder
-Alu         : performs arithmetic operations based on alu control
+Adder       : 32 bit adder \n
+Alu         : performs arithmetic operations based on alu control /n
 Alu_Control : tells the ALU what operation to perform
 Ex_Mem_latch: passes the output onto the next stage
 Execute     : top module wiring everything together
